@@ -1,0 +1,14 @@
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 4.1\задание 4.1\bin\Debug\net6.0\задание 4.1.exe
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 4.1\задание 4.1\bin\Debug\net6.0\задание 4.1.deps.json
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 4.1\задание 4.1\bin\Debug\net6.0\задание 4.1.runtimeconfig.json
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 4.1\задание 4.1\bin\Debug\net6.0\задание 4.1.dll
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 4.1\задание 4.1\bin\Debug\net6.0\задание 4.1.pdb
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 4.1\задание 4.1\obj\Debug\net6.0\задание 4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 4.1\задание 4.1\obj\Debug\net6.0\задание 4.1.AssemblyInfoInputs.cache
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 4.1\задание 4.1\obj\Debug\net6.0\задание 4.1.AssemblyInfo.cs
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 4.1\задание 4.1\obj\Debug\net6.0\задание 4.1.csproj.CoreCompileInputs.cache
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 4.1\задание 4.1\obj\Debug\net6.0\задание 4.1.dll
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 4.1\задание 4.1\obj\Debug\net6.0\refint\задание 4.1.dll
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 4.1\задание 4.1\obj\Debug\net6.0\задание 4.1.pdb
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 4.1\задание 4.1\obj\Debug\net6.0\задание 4.1.genruntimeconfig.cache
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 4.1\задание 4.1\obj\Debug\net6.0\ref\задание 4.1.dll
