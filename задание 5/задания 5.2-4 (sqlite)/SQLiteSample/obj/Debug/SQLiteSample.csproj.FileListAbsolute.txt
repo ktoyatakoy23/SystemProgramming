@@ -1,0 +1,91 @@
+C:\Users\User\Desktop\колледж программирования\SQLiteAndCSharp-master\SQLiteSample\bin\Debug\SQLiteSample.exe.config
+C:\Users\User\Desktop\колледж программирования\SQLiteAndCSharp-master\SQLiteSample\bin\Debug\SQLiteSample.exe
+C:\Users\User\Desktop\колледж программирования\SQLiteAndCSharp-master\SQLiteSample\bin\Debug\SQLiteSample.pdb
+C:\Users\User\Desktop\колледж программирования\SQLiteAndCSharp-master\SQLiteSample\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\колледж программирования\SQLiteAndCSharp-master\SQLiteSample\obj\Debug\SQLiteSample.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\колледж программирования\SQLiteAndCSharp-master\SQLiteSample\obj\Debug\SQLiteSample.AddDataToDb.resources
+C:\Users\User\Desktop\колледж программирования\SQLiteAndCSharp-master\SQLiteSample\obj\Debug\SQLiteSample.Form1.resources
+C:\Users\User\Desktop\колледж программирования\SQLiteAndCSharp-master\SQLiteSample\obj\Debug\SQLiteSample.Properties.Resources.resources
+C:\Users\User\Desktop\колледж программирования\SQLiteAndCSharp-master\SQLiteSample\obj\Debug\SQLiteSample.csproj.GenerateResource.cache
+C:\Users\User\Desktop\колледж программирования\SQLiteAndCSharp-master\SQLiteSample\obj\Debug\SQLiteSample.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\колледж программирования\SQLiteAndCSharp-master\SQLiteSample\obj\Debug\SQLiteSample.csproj.CopyComplete
+C:\Users\User\Desktop\колледж программирования\SQLiteAndCSharp-master\SQLiteSample\obj\Debug\SQLiteSample.exe
+C:\Users\User\Desktop\колледж программирования\SQLiteAndCSharp-master\SQLiteSample\obj\Debug\SQLiteSample.pdb
+C:\Users\User\Desktop\колледж программирования\SQLiteAndCSharp-master\SQLiteSample\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\колледж программирования\бд\SQLiteSample\bin\Debug\SQLiteSample.exe.config
+C:\Users\User\Desktop\колледж программирования\бд\SQLiteSample\bin\Debug\SQLiteSample.exe
+C:\Users\User\Desktop\колледж программирования\бд\SQLiteSample\bin\Debug\SQLiteSample.pdb
+C:\Users\User\Desktop\колледж программирования\бд\SQLiteSample\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\колледж программирования\бд\SQLiteSample\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\колледж программирования\бд\SQLiteSample\obj\Debug\SQLiteSample.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\колледж программирования\бд\SQLiteSample\obj\Debug\SQLiteSample.AddDataToDb.resources
+C:\Users\User\Desktop\колледж программирования\бд\SQLiteSample\obj\Debug\SQLiteSample.Form1.resources
+C:\Users\User\Desktop\колледж программирования\бд\SQLiteSample\obj\Debug\SQLiteSample.Properties.Resources.resources
+C:\Users\User\Desktop\колледж программирования\бд\SQLiteSample\obj\Debug\SQLiteSample.csproj.GenerateResource.cache
+C:\Users\User\Desktop\колледж программирования\бд\SQLiteSample\obj\Debug\SQLiteSample.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\колледж программирования\бд\SQLiteSample\obj\Debug\SQLiteSample.csproj.CopyComplete
+C:\Users\User\Desktop\колледж программирования\бд\SQLiteSample\obj\Debug\SQLiteSample.exe
+C:\Users\User\Desktop\колледж программирования\бд\SQLiteSample\obj\Debug\SQLiteSample.pdb
+C:\Users\User\Desktop\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\SQLiteSample.exe.config
+C:\Users\User\Desktop\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\SQLiteSample.exe
+C:\Users\User\Desktop\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\SQLiteSample.pdb
+C:\Users\User\Desktop\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.AddDataToDb.resources
+C:\Users\User\Desktop\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.Form1.resources
+C:\Users\User\Desktop\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.Properties.Resources.resources
+C:\Users\User\Desktop\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.csproj.GenerateResource.cache
+C:\Users\User\Desktop\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.csproj.CopyComplete
+C:\Users\User\Desktop\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.exe
+C:\Users\User\Desktop\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.pdb
+C:\Users\User\Desktop\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\HidSharp.dll
+C:\Users\User\Desktop\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\LibreHardwareMonitorLib.dll
+C:\Users\User\Desktop\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\System.CodeDom.dll
+C:\Users\User\Desktop\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\HidSharp.pdb
+C:\Users\User\Desktop\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\HidSharp.xml
+C:\Users\User\Desktop\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\LibreHardwareMonitorLib.xml
+C:\Users\User\Desktop\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\System.CodeDom.xml
+C:\Users\Софич и Владич\Desktop\колледж программированеи\c телеграмма\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.csproj.AssemblyReference.cache
+C:\Users\Софич и Владич\Desktop\колледж программированеи\c телеграмма\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.AddDataToDb.resources
+C:\Users\Софич и Владич\Desktop\колледж программированеи\c телеграмма\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.Form1.resources
+C:\Users\Софич и Владич\Desktop\колледж программированеи\c телеграмма\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.Properties.Resources.resources
+C:\Users\Софич и Владич\Desktop\колледж программированеи\c телеграмма\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.csproj.GenerateResource.cache
+C:\Users\Софич и Владич\Desktop\колледж программированеи\c телеграмма\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.csproj.CoreCompileInputs.cache
+C:\Users\Софич и Владич\Desktop\колледж программированеи\c телеграмма\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.exe
+C:\Users\Софич и Владич\Desktop\колледж программированеи\c телеграмма\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.pdb
+C:\Users\Софич и Владич\Desktop\колледж программированеи\c телеграмма\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\SQLiteSample.exe.config
+C:\Users\Софич и Владич\Desktop\колледж программированеи\c телеграмма\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\SQLiteSample.exe
+C:\Users\Софич и Владич\Desktop\колледж программированеи\c телеграмма\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\SQLiteSample.pdb
+C:\Users\Софич и Владич\Desktop\колледж программированеи\c телеграмма\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\HidSharp.dll
+C:\Users\Софич и Владич\Desktop\колледж программированеи\c телеграмма\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\LibreHardwareMonitorLib.dll
+C:\Users\Софич и Владич\Desktop\колледж программированеи\c телеграмма\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\System.CodeDom.dll
+C:\Users\Софич и Владич\Desktop\колледж программированеи\c телеграмма\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\System.Data.SQLite.dll
+C:\Users\Софич и Владич\Desktop\колледж программированеи\c телеграмма\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\HidSharp.pdb
+C:\Users\Софич и Владич\Desktop\колледж программированеи\c телеграмма\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\HidSharp.xml
+C:\Users\Софич и Владич\Desktop\колледж программированеи\c телеграмма\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\LibreHardwareMonitorLib.xml
+C:\Users\Софич и Владич\Desktop\колледж программированеи\c телеграмма\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\System.CodeDom.xml
+C:\Users\Софич и Владич\Desktop\колледж программированеи\c телеграмма\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\System.Data.SQLite.xml
+C:\Users\Софич и Владич\Desktop\колледж программированеи\c телеграмма\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.csproj.CopyComplete
+C:\Users\User\Desktop\1\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\SQLiteSample.exe.config
+C:\Users\User\Desktop\1\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\SQLiteSample.exe
+C:\Users\User\Desktop\1\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\SQLiteSample.pdb
+C:\Users\User\Desktop\1\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\HidSharp.dll
+C:\Users\User\Desktop\1\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\LibreHardwareMonitorLib.dll
+C:\Users\User\Desktop\1\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\System.CodeDom.dll
+C:\Users\User\Desktop\1\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\1\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\HidSharp.pdb
+C:\Users\User\Desktop\1\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\HidSharp.xml
+C:\Users\User\Desktop\1\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\LibreHardwareMonitorLib.xml
+C:\Users\User\Desktop\1\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\System.CodeDom.xml
+C:\Users\User\Desktop\1\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\1\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\1\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.AddDataToDb.resources
+C:\Users\User\Desktop\1\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.Form1.resources
+C:\Users\User\Desktop\1\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.Properties.Resources.resources
+C:\Users\User\Desktop\1\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.csproj.GenerateResource.cache
+C:\Users\User\Desktop\1\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.csproj.CopyComplete
+C:\Users\User\Desktop\1\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.exe
+C:\Users\User\Desktop\1\колледж программирования\БД ЗАДАНИЕ 2\SQLiteSample\obj\Debug\SQLiteSample.pdb
