@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U265UkPo64FYzmkiehcqiSzCPnTFewjbkej8OWos3xVaE8u0qchGF19pQ9yEAUM82FbNAx2xrmeY4PT8I2DvqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Софич и Владич\\Desktop\\колледж программированеи\\системное программирование\\задание 3 системное программирование\\задание 3 системное программирование\\задание 3 системное программирование.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Софич и Владич\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Софич и Владич\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
